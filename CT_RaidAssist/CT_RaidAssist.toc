@@ -2,6 +2,7 @@
 ## Version: 1.541 (CTMod 1.856)
 ## Title: CT_RaidAssist
 ## Notes: Allows you to monitor Raid HP.
+## Notes-ruRU: Позволяет отслеживать здоровье рейда.
 ## OptionalDeps: CT_BarMod
 ## DefaultState: Enabled
 ## LoadOnDemand: 0
